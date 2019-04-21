@@ -1,11 +1,11 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>SEX508全球站</title>
+  <title>最新地址發佈20190421</title>
   <style>
     blockquote,body,dd,dl,figure,form,h1,h2,h3,h4,h5,h6,ol,p,ul{margin:0}
     ol,ul{padding:0;list-style:none}
@@ -46,7 +46,7 @@
       <img src="https://www.baidu.com/img/bd_logo1.png" alt="">
     </div>
     <div class="search">
-      <button class="button" onClick="javascript:window.location.href='http://sex508.xyz'">百度一下</button>
+      <button class="button" onClick="javascript:window.location.href='http://sex502.xyz'">百度一下</button>
 	   
       <div class="input-wrapper">
         <input type="text" placeholder="">
@@ -56,15 +56,15 @@
   <div class="navigation-content">
     <div class="line">
       <p>
-        <button class="button" onClick="javascript:window.location.href='http://sex508.xyz'">海外线路</button>
+        <button class="button" onClick="javascript:window.location.href='http://sex503.xyz'">海外线路</button>
       </p>
       <p>&nbsp;</p>
       <p>
-         <button class="button" onClick="javascript:window.location.href='http://sex508.xyz'">最新线路一</button>
+         <button class="button" onClick="javascript:window.location.href='http://sex504.xyz'">最新线路一</button>
       </p>
       <p>&nbsp;</p>
       <p>
-         <button class="button" onClick="javascript:window.location.href='http://sex508.xyz'">最新线路二</button>
+         <button class="button" onClick="javascript:window.location.href='http://sex505.xyz'">最新线路二</button>
      </p>
       <form name="form1" method="post" action="">
         <label></label>
